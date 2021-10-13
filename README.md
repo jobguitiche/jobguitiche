@@ -10,7 +10,7 @@ Hi, my name is **Job Guitiche**
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&langs_count=7&theme=tokyonight"/>        
 </div> -->
 
-| <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&include_all_commits=true&theme=default&hide_border=true&icon_color=E01462" alt="Anurag's github stats" /></a> | <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <div>
