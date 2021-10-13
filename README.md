@@ -1,14 +1,17 @@
-### Hi there 👋
+Hi, my name is **Job Guitiche**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🌎 I am **Android Developer**
+- 💼 **Software Developer** at SkyJacket
+- ❤️ I love **UI/UX Design**
 
-<div align="left">
+<!-- <div align="left">
   <a href="https://github.com/jobguitiche">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&langs_count=7&theme=tokyonight"/>        
+</div> -->
+
+| <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div>
   <a href="https://www.linkedin.com/in/job-guitiche/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
