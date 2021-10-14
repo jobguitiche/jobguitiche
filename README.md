@@ -1,6 +1,6 @@
 Hi, my name is **Job Guitiche**
 
-- 🌎 I am **Android Developer** I like to create apps that empower people especially people who don't have access to technologies that represent their culture or needs so well.
+- 🌎 I am **Android Developer** I like to create apps that empower people
 - 💼 **Software Developer** at SkyJacket
 - ❤️ I love **UI/UX Design**
 
