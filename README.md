@@ -2,7 +2,9 @@ Hi, my name is **Job Guitiche**
 
 - 🌎 I am **Android Developer** I like to create apps that empower people
 - 💼 **Software Developer** at SkyJacket
-- ❤️ I love **UI/UX Design**
+- ❤️ I love **Writing** about tecnology and share ideias
+- 📱 See **My Apps** [here](https://play.google.com/store/apps/dev?id=6572654544819443309&hl=pt)
+- ✉️ Contact: job.guitiche@gmail.com
 
 <!-- <div align="left">
   <a href="https://github.com/jobguitiche">
