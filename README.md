@@ -6,6 +6,8 @@ Hi, my name is **Job Guitiche**
 - 📱 See **My Apps** [here](https://play.google.com/store/apps/dev?id=6572654544819443309&hl=pt)
 - ✉️ Contact: job.guitiche@gmail.com
 
+![](https://komarev.com/ghpvc/?username=jobguitiche)
+
 <!-- <div align="left">
   <a href="https://github.com/jobguitiche">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
