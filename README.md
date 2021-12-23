@@ -10,14 +10,7 @@ Hi, my name is **Job Guitiche**
 
 ![](https://komarev.com/ghpvc/?username=jobguitiche)
 
-<!-- <div align="left">
-  <a href="https://github.com/jobguitiche">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&langs_count=7&theme=tokyonight"/>        
-</div> -->
-
-| <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jobguitiche&show_icons=true&include_all_commits=true&theme=default&hide_border=true&icon_color=E01462" alt="Anurag's github stats" /></a> | <a href="https://github.com/jobguitiche/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobguitiche&layout=compact&theme=default&hide_border=true" /></a> |
-| ------------- | ------------- |
+**Connect with me or see my work here:**  
 
 <div>
   <a href="https://www.linkedin.com/in/job-guitiche/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
