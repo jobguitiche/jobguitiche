@@ -4,9 +4,9 @@ Hi, my name is **Job Guitiche**
 
 - 💼 **Android Curriculum Analyst** at [Trybe](https://www.betrybe.com/)
 
-- ❤️ I love **Writing** about tecnology and share ideias
+- ❤️ I love [write](https://medium.com/@jobguitiche) about tecnology and [share ideias](https://www.instagram.com/jobguitiche.dev/)
 
-- 📱 See **My Apps** [Here](https://play.google.com/store/apps/dev?id=6572654544819443309&hl=pt)
+- 📱 See **my apps** [Here](https://play.google.com/store/apps/dev?id=6572654544819443309&hl=pt)
 
 ![](https://komarev.com/ghpvc/?username=jobguitiche)
 
