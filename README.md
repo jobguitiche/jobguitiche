@@ -2,7 +2,7 @@ Hi, my name is **Job Guitiche**
 
 - 🌎 I am **Android Developer** I like to create apps that empower people
 
-- 💼 **Android Curriculum Analyst** at [Trybe](https://www.betrybe.com/)
+- 💼 **Curriculum Analyst** at [Trybe](https://www.betrybe.com/)
 
 - ❤️ I love [write](https://medium.com/@jobguitiche) about tecnology and [share ideias](https://www.instagram.com/jobguitiche.dev/)
 
