@@ -1,10 +1,4 @@
-Hi, my name is **Job Guitiche**
-
-- 🌎 I am **Android Developer** I like to create apps that empower people
-
-- ❤️ I love write about tecnology and share ideias
-
-![](https://komarev.com/ghpvc/?username=jobguitiche)
+Hi, my name is **Job Guitiche** I am **Android Developer**.
 
 **Connect with me or see my work here:**  
 
